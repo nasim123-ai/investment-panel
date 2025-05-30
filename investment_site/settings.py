@@ -18,7 +18,7 @@ SECRET_KEY = 'django-insecure-YourSecretKeyHere'
 DEBUG = True
 
 
-ALLOWED_HOSTS = ['192.168.1.126', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['investment-panel-1.onrender.com']
 
 
 # اپلیکیشن‌های نصب‌شده
