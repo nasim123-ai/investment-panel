@@ -1,0 +1,1 @@
+gunicorn investment_site.wsgi
